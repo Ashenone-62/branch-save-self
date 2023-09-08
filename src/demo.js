@@ -3,5 +3,5 @@ function sum() {
 }
 
 function sum2() {
-  return 2 + 2;
+  return 22 + 22;
 }
