@@ -9,3 +9,7 @@ function sum2() {
 function sum4() {
   return 3 + 3;
 }
+
+function sum5() {
+  return 4 + 4;
+}
